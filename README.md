@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FmaxAI: AI-Optimized Semiconductor Fmax Search for Test Time Reduction
 
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
@@ -276,3 +277,7 @@ All 8 unit tests verify:
 3. N. Bellarmino et al., *"Semi-supervised deep learning for microcontroller performance screening,"* Proc. IEEE European Test Symposium (ETS), 2023.
 4. A. N. Angelopoulos, S. Bates, *"A gentle introduction to conformal prediction and distribution-free uncertainty quantification,"* arXiv:2107.07511, 2021.
 5. R. Waeber, P. I. Frazier, S. G. Henderson, *"Bisection search with noisy responses,"* SIAM J. Control and Optimization, vol. 51, no. 3, 2013.
+=======
+# FmaxAI-Semiconductor-Testing
+AI-powered semiconductor Fmax prediction and test-time optimization
+>>>>>>> 59fa6c190456d09391a6ee56d5009cff8dabb7a1
